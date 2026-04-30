@@ -5,7 +5,7 @@
 
 EnrollDash is a modern, high-performance analytics platform designed for educational institutions to track historical enrollment trends and forecast future student numbers using linear regression models.
 
-## ✨ Features
+## Features
 
 - **Advanced Dashboard**: Real-time visualization of enrollment trends using Recharts.
 - **Predictive Analytics**: Automated forecasting based on historical data.
@@ -17,7 +17,7 @@ EnrollDash is a modern, high-performance analytics platform designed for educati
   - Smooth animations with Framer Motion.
   - Premium look using shadcn/ui.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Vite, Tailwind CSS, Lucide Icons, Framer Motion, Recharts.
 - **Backend**: Node.js, Express.
