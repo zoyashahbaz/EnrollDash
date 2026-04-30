@@ -52,6 +52,6 @@ EnrollDash is a modern, high-performance analytics platform designed for educati
 
 ## 👤 Developer
 
-**Mohsin Hayat**
-- Email: mohsinhayat216@gmail.com
-- GitHub: [github.com/mohsin-hayat](https://github.com/mohsin-hayat)
+**Zarfishan Shahbaz**
+- Email: zoyashahbaz33@gmail.com
+- GitHub: github.com/zoyashahbaz/
