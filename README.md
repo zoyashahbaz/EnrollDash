@@ -38,15 +38,12 @@ EnrollDash is a modern, high-performance analytics platform designed for educati
    npm install
    ```
 
-2. **Environment Setup**:
-   Copy `.env.example` to `.env` (if applicable) and configure your environment variables.
-
-3. **Run the development server**:
+2. **Run the development server**:
    ```bash
    npm run dev
    ```
 
-4. **Access the app**:
+3. **Access the app**:
    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 👤 Developer
