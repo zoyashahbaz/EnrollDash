@@ -24,7 +24,7 @@ EnrollDash is a modern, high-performance analytics platform designed for educati
 - **Database**: SQLite.
 - **Tools**: TypeScript, Zod for validation.
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -46,7 +46,7 @@ EnrollDash is a modern, high-performance analytics platform designed for educati
 3. **Access the app**:
    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 👤 Developer
+## Developer
 
 **Zarfishan Shahbaz**
 - Email: zoyashahbaz33@gmail.com
